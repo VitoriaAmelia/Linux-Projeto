@@ -7,7 +7,7 @@
 
 2. **Crie uma página HTML inicial**
    
-   Abra o arquivo no nano:
+   Abra o seguinte arquivo no nano:
    ```bash
    sudo nano /var/www/html/index.html
    ```
