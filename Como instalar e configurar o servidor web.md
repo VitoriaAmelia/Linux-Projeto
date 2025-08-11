@@ -12,7 +12,7 @@
    sudo nano /var/www/html/index.html
    ```
    
-   Digite o conteúdo html.
+   Digite o conteúdo html:
    
    ```bash
    Conteúdo em produção
