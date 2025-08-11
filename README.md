@@ -1,7 +1,7 @@
 
 # Projeto Linux
 
-Projeto Linux desenvolvido no contexto do Programa de Bolsas da Compass UOL
+Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 
 ## Navegação
 
