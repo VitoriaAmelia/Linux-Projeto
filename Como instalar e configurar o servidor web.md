@@ -4,8 +4,13 @@
    ```bash
    sudo apt install nginx -y
    ```
-
-2. **Crie uma página HTML inicial**
+   
+2. **Verifique se o Nginx está ativo**  
+   ```bash
+   systemctl status nginx
+   ```
+   
+3. **Crie uma página HTML inicial**
    
    Abra o seguinte arquivo no nano:
    ```bash
@@ -19,9 +24,14 @@
    ```
    
    Salve com Ctrl+O, enter, Ctrl+X.
+
+4. **Veja o ip da sua máquina**  
+   ```bash
+   ip -4 a
+   ```
+5. **Cole no navegador**  
+   ```bash
+   http://IP_CONSULTADO
+   ```
    
 
-4. **Verifique se o Nginx está ativo**  
-   ```bash
-   systemctl status nginx
-   ```
