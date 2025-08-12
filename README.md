@@ -3,7 +3,7 @@
 
 Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 
-<img Resultado: width="425" height="300" alt="Image" src="https://github.com/user-attachments/assets/70e94dea-aa4d-4d73-932b-636734db54cf" />
+<img Resultado: width="306" height="216" alt="Image" src="https://github.com/user-attachments/assets/70e94dea-aa4d-4d73-932b-636734db54cf" />
 
 ## Navegação (siga o passo a passo):
 
