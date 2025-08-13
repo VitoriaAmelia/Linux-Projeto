@@ -4,7 +4,7 @@
    - Procure o **@BotFather** na lupa do Telegram  
    - Envie `/newbot` e siga os passos apontados pelo bot
    - Copie o token que será dado no final para usar no script
-
+     <img width="413" height="67" alt="Image" src="https://github.com/user-attachments/assets/4c24abc3-1488-4973-815c-72e9d29dc062" />
 5. **Ache o ID do seu chat**  
    - No navegador, acesse com seu token:
      
