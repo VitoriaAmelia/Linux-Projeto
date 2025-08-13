@@ -17,7 +17,7 @@ Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 
 * [5° - Como testar e validar a solução](https://github.com/VitoriaAmelia/Linux-Projeto/blob/main/5%C2%BA%20-%20Como%20testar%20e%20validar%20a%20solu%C3%A7%C3%A3o.md)
 
-  ## Tecnologias/ferramentas utilizadas:
+## Tecnologias/ferramentas utilizadas:
 - VirtualBox – para criação da máquina virtual
 - Maquina Virtual (Oracle VirtualBox)
 - Ubuntu Server (Imagem ISO)
