@@ -3,7 +3,7 @@
 1. **Instale a VirtualBox**  
    - Link para download: [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
-2. **Baixe o Ubunto**
+2. **Baixe o Ubuntu**
    - Acesse o link:[ https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
    - Escolha o Ubuntu Server (Ubuntu 22.04 LTS) e faça download
 
