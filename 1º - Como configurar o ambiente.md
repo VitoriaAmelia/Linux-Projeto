@@ -1,7 +1,7 @@
 # Como configurar o ambiente
 
 1. **Instale a VirtualBox**  
-   - Link par download: [https://www.virtualbox.org/](https://www.virtualbox.org/)
+   - Link para download: [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 2. **Baixe o Ubunto**
    - Acesse o link:[ https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
