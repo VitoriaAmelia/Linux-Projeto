@@ -20,7 +20,7 @@
    # O id do seu chat 
    ID="SEU_CHAT_ID_AQUI"
    
-   # Endereço do se
+   # Endereço
    URL="http://localhost"
    
    # Caminho do arquivo do log que será salvo
