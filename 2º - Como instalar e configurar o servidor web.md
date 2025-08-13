@@ -163,7 +163,7 @@
 			<li>Como funciona o script de monitoramento</li>
 			<li>Como testar e validar a solução</li>
 			</ol>
-			<p>Enderço do link: </p>
+			<p>Endereço: https://github.com/VitoriaAmelia/Linux-Projeto-1.git </p>
 		</section>
 		
 		<section>
