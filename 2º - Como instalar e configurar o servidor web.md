@@ -9,6 +9,7 @@
    ```bash
    systemctl status nginx
    ```
+   
 4. **Antes de criar sua página, considere os passos sobre como eviar imagens para a VM**
 
    - No seu computador local, nesse caso o Windows, digite o modelo no cmd:
