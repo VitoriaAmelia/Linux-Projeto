@@ -2,7 +2,8 @@
 
 4. **Crie um bot no Telegram**  
    - Procure o **@BotFather** na lupa do Telegram
-     
+
+
    <img width="304" height="48" alt="Image" src="https://github.com/user-attachments/assets/ef64516c-fb2d-40a1-9c63-9e27ee565035" />
    
    - Envie `/newbot` e siga os passos apontados pelo bot
