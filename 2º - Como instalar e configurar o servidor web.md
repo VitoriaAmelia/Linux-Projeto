@@ -16,11 +16,11 @@
    ```bash
    scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
    ```
-   * C:\caminho\sua_imagem.extensao --> caminho da imagem no seu computador
+     C:\caminho\sua_imagem.extensao --> caminho da imagem no seu computador
      
-   * usuario --> seu usuário na VM
+     usuario --> seu usuário na VM
      
-   * ip_servidor --> ip da sua máquina
+     ip_servidor --> ip da sua máquina
 
    - Na Máquina Virtual:
   
