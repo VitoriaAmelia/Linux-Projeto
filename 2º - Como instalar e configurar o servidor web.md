@@ -26,7 +26,7 @@
         
    ip_servidor --> ip da sua máquina
 
-   Será necessário, depois desse processo, digite a senha do usuário da VM
+   Será necessário, depois desse processo, digitar a senha do usuário da VM
 
    Na Máquina Virtual, digite:
 
