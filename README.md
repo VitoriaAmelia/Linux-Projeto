@@ -5,16 +5,6 @@ Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 
 <img Resultado: width="306" height="216" alt="Image" src="https://github.com/user-attachments/assets/70e94dea-aa4d-4d73-932b-636734db54cf" />
 
-## Tecnologias/ferramentas utilizadas:
-- VirtualBox – para criação da máquina virtual
-- Maquina Virtual (Oracle VirtualBox)
-- Ubuntu Server (Imagem ISO)
-- Nginx 
-- HTML
-- Bash 
-- cURL 
-- Cron 
-
 ## Navegação (siga o passo a passo):
 
 * [1° - Como configurar o ambiente](https://github.com/VitoriaAmelia/Linux-Projeto/blob/main/1%C2%BA%20-%20Como%20configurar%20o%20ambiente.md)
@@ -26,4 +16,13 @@ Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 * [4° - Como funciona o script de monitoramento](https://github.com/VitoriaAmelia/Linux-Projeto/blob/main/4%C2%BA%20-%20Como%20funciona%20o%20script%20de%20monitoramento.md)
 
 * [5° - Como testar e validar a solução](https://github.com/VitoriaAmelia/Linux-Projeto/blob/main/5%C2%BA%20-%20Como%20testar%20e%20validar%20a%20solu%C3%A7%C3%A3o.md)
-  
+
+  ## Tecnologias/ferramentas utilizadas:
+- VirtualBox – para criação da máquina virtual
+- Maquina Virtual (Oracle VirtualBox)
+- Ubuntu Server (Imagem ISO)
+- Nginx 
+- HTML
+- Bash 
+- cURL 
+- Cron 
