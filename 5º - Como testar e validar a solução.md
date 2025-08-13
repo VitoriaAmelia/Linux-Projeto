@@ -19,7 +19,7 @@
 
    - Veja o log:
      ```bash
-     cat /var/log/monitor_site.log
+     cat /var/log/nome_do_seu_log.log
      ```
      
    <img width="372" height="63" alt="Image" src="https://github.com/user-attachments/assets/26c30c83-9cbb-4161-974c-15f6ded656ef" />
