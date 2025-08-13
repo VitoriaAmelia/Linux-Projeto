@@ -13,7 +13,7 @@
      ```
      
    - Envie uma mensagem para o bot no Telegram para criar o id do seu chat
-   - 
+     
    - Recarregue a página do navegador e procure algo como:  
      ```
      "id": 123456789
