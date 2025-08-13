@@ -26,7 +26,7 @@
         
    ip_servidor --> ip da sua máquina
 
-   Se necessário, depois desse processo, digite a senha do usuário da VM
+   Será necessário, depois desse processo, digite a senha do usuário da VM
 
    Na Máquina Virtual, digite:
 
@@ -34,7 +34,7 @@
    sudo mv /home/usuario/imagem.extensao /var/www/html/
    ```
    Isso moverá seu arquivo para o mesmo diretório onde estará a página HTML.
-   
+   Será necessário digitar a senha do usário novamente   
 5. **Crie uma página HTML inicial**
    
    Abra o arquivo "index.html" no editor nano, precisa ser nesse caminho:
