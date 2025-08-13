@@ -11,7 +11,11 @@
    - 1,8 GB RAM e 1 CPU são suficientes  
    - Sobre a rede, use a Placa em modo Bridge (para usar a internet do computador que hospeda a VM)
 
-3. **Atualize**  
+3. **Atenção à senha!**
+   - Durante a configuração, é necessário informar a senha de usuário
+   - Guarde essa senha, pois ela será necessária para executar alguns comandos sudo
+
+5. **Atualize**  
    Após a instalação, atualize a lista de pacotes disponíveis e instale todas as atualizações disponíveis:  
    ```bash
    sudo apt update && sudo apt upgrade -y
