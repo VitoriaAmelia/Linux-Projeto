@@ -3,6 +3,23 @@
 
 Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 
+## Tecnologias/ferramentas utilizadas:
+VirtualBox – para criação da máquina virtual
+
+- Maquina Virtual
+  
+- Ubuntu Server (Imagem ISO)
+
+- Nginx 
+
+- HTML
+
+- Bash 
+
+- cURL 
+
+- Cron 
+
 <img Resultado: width="306" height="216" alt="Image" src="https://github.com/user-attachments/assets/70e94dea-aa4d-4d73-932b-636734db54cf" />
 
 ## Navegação (siga o passo a passo):
