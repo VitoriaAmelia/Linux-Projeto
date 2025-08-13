@@ -11,18 +11,18 @@
    ```
 4. **Antes de criar sua página, considere os passos sobre como eviar imagens para a VM**
 
-      - No seu computador local, nesse caso o Windows, digite o modelo no cmd:
+   - No seu computador local, nesse caso o Windows, digite o modelo no cmd:
    
-      ```bash
-      scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
-      ```
+     ```bash
+         scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
+   ```
+      
+   C:\caminho\sua_imagem.extensao --> caminho da imagem no seu computador
    
-     C:\caminho\sua_imagem.extensao --> caminho da imagem no seu computador
-     
-     usuario --> seu usuário na VM
-     
-     ip_servidor --> ip da sua máquina
-
+   usuario --> seu usuário na VM
+        
+   ip_servidor --> ip da sua máquina
+   
    - Na Máquina Virtual:
   
    
