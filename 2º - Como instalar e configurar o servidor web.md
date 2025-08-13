@@ -37,7 +37,7 @@
    
 5. **Crie uma página HTML inicial**
    
-   Abra o arquivo "index.html" no editor nano:
+   Abra o arquivo "index.html" no editor nano, precisa ser nesse caminho:
    
    ```bash
    sudo nano /var/www/html/index.html
