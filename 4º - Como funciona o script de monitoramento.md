@@ -44,7 +44,7 @@
 
    ```
    
-2. **Dê permissãp para executar**  
+2. **Dê permissão para executar**  
    ```bash
    sudo chmod +x /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
    ```
