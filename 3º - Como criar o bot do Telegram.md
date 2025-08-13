@@ -7,7 +7,7 @@
 
 5. **Ache o ID do seu chat**  
    - No navegador, acesse com seu token:
-   - 
+     
      ```
      https://api.telegram.org/botSEU_TOKEN_AQUI/getUpdates
      ```
