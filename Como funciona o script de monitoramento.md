@@ -2,7 +2,7 @@
 
 1. **Crie o script**
 
-   Crie um scrip para fazer o monitoramento com o editor nano no caminho /usr/local/NOME_DO_SEU_SCRIPT.sh  
+   Crie um script para fazer o monitoramento com o editor nano no caminho /usr/local/NOME_DO_SEU_SCRIPT.sh  
  
    ```bash
    sudo nano /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
