@@ -14,7 +14,7 @@
    
 3. **Antes de criar sua página, considere como enviar imagens para a VM**
    
-   No seu computador local, nesse caso o Windows, digite o modelo no cmd:
+   No computador local, nesse caso o Windows, digite o modelo no cmd:
    
     ```bash
    scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
