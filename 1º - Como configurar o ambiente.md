@@ -1,11 +1,11 @@
 # Como configurar o ambiente
 
 1. **Instale a VirtualBox**  
-   - Link par baixar: [https://www.virtualbox.org/](https://www.virtualbox.org/)
+   - Link par download: [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 2. **Baixe o Ubunto**
    - Acesse o link:[ https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
-   - Escolha o Ubuntu Server (Ubuntu 22.04 LTS)
+   - Escolha o Ubuntu Server (Ubuntu 22.04 LTS) e faça download
 
 2. **Crie uma VM**  
    - 1,8 GB RAM e 1 CPU são suficientes  
