@@ -6,7 +6,7 @@ Projeto Linux desenvolvido no contexto do Programa de Bolsas.
 ## Tecnologias/ferramentas utilizadas:
 VirtualBox – para criação da máquina virtual
 
-- Maquina Virtual
+- Maquina Virtual (Oracle VirtualBox)
   
 - Ubuntu Server (Imagem ISO)
 
