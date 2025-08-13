@@ -47,9 +47,9 @@
    Digite o conteúdo html:
    
    ```bash
- <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
+ 	<!DOCTYPE html>
+	<html lang="pt-BR">
+	<head>
 	<meta charset="UTF-8" />
 	<title> Projeto Linux </title>
 	<style>
@@ -125,54 +125,54 @@
 	}
 	
 	</style>
-</head>
-
-<body>
-	<header>
-		<h1><strong>Projeto Linux</strong> </h1>
-	</header>
-<main>
-	<center><img src="linux_gif.gif" class="gif"/></center>
+	</head>
 	
-	<section>
-		<h2><img src="info.png" class="titulo-icon"/> Sobre o projeto </h2>
-		<p>Esse Projeto monitora automaticamente a disponibilidade de um site e envia notificações caso ele fique indisponível. Ele também mantém logs e garante que o servidor esteja sempre no ar.</p>
-	</section>
-	<section>
-	<h2><img src="importante.png" class="titulo-icon"/> Importância do projeto</h2>
-	<p>Monitorar um site é importante para garantir a disponibilidade e evitar prejuízos que podem ocorrer caso alguma falha não seja detectada de forma rápida.		
-	</section>
+	<body>
+		<header>
+			<h1><strong>Projeto Linux</strong> </h1>
+		</header>
+	<main>
+		<center><img src="linux_gif.gif" class="gif"/></center>
+		
+		<section>
+			<h2><img src="info.png" class="titulo-icon"/> Sobre o projeto </h2>
+			<p>Esse Projeto monitora automaticamente a disponibilidade de um site e envia notificações caso ele fique indisponível. Ele também mantém logs e garante que o servidor esteja sempre no ar.</p>
+		</section>
+		<section>
+		<h2><img src="importante.png" class="titulo-icon"/> Importância do projeto</h2>
+		<p>Monitorar um site é importante para garantir a disponibilidade e evitar prejuízos que podem ocorrer caso alguma falha não seja detectada de forma rápida.		
+		</section>
+		
+		<section>
+			<h2><img src="prancheta.png" class="titulo-icon"/> Requistos do projeto </h2>
+			<ul>
+			<li> Ubunto Server instalado </li>
+			<li> Servidor Web Nginx </li>
+			<li>Script de monitoramento</li>
+			<li>Bot do Telegram configurado </li>
+			<li>Agendamento da tarefa </li>
+			</ul>
+		</section>
+		
+		<section>
+	  		<h2><img src="git.png" class="titulo-icon"/>Ordem de passos a serem seguidos no GitHub</h2>
+			<ol>
+			<li>Como configurar o ambiente</li>
+			<li>Como instalar e configurar o servidor web</li>
+			<li>Como criar o bot do Telegram</li>
+			<li>Como funciona o script de monitoramento</li>
+			<li>Como testar e validar a solução</li>
+			</ol>
+			<p>Enderço do link: </p>
+		</section>
+		
+		<section>
+			<h2><img src="perfil.png" class="titulo-icon"/> Desenvolvedora</h2>
+			<p>Vitoria Silva desenvolveu o projeto no contexto do programa de bolsas.</p>
+		</section>
 	
-	<section>
-		<h2><img src="prancheta.png" class="titulo-icon"/> Requistos do projeto </h2>
-		<ul>
-		<li> Ubunto Server instalado </li>
-		<li> Servidor Web Nginx </li>
-		<li>Script de monitoramento</li>
-		<li>Bot do Telegram configurado </li>
-		<li>Agendamento da tarefa </li>
-		</ul>
-	</section>
-	
-	<section>
-  		<h2><img src="git.png" class="titulo-icon"/>Ordem de passos a serem seguidos no GitHub</h2>
-		<ol>
-		<li>Como configurar o ambiente</li>
-		<li>Como instalar e configurar o servidor web</li>
-		<li>Como criar o bot do Telegram</li>
-		<li>Como funciona o script de monitoramento</li>
-		<li>Como testar e validar a solução</li>
-		</ol>
-		<p>Enderço do link: </p>
-	</section>
-	
-	<section>
-		<h2><img src="perfil.png" class="titulo-icon"/> Desenvolvedora</h2>
-		<p>Vitoria Silva desenvolveu o projeto no contexto do programa de bolsas.</p>
-	</section>
-
-</body>
-</html>
+	</body>
+	</html>
    ```
    
    Salve com Ctrl+O, enter, Ctrl+X.
