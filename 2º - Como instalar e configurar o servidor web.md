@@ -13,9 +13,9 @@
 
    - No seu computador local, nesse caso o Windows, digite o modelo no cmd:
    
-     ```bash
+   ```bash
          scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
-     ```
+   ```
       
    C:\caminho\sua_imagem.extensao --> caminho da imagem no seu computador
    
