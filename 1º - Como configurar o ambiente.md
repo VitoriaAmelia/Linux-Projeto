@@ -8,7 +8,7 @@
    - Escolha o Ubuntu Server (Ubuntu 22.04 LTS) e faça download
 
 2. **Crie uma VM**  
-   - 1,8 GB RAM e 1 CPU são suficientes  
+   - 1,8 GB RAM, 1 CPU e 25 GB no tamanho do disco são suficientes  
    - Sobre a rede, use a Placa em modo Bridge (para usar a internet do computador que hospeda a VM)
 
 3. **Atenção à senha!**
