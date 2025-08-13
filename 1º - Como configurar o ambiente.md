@@ -12,7 +12,7 @@
    - Sobre a rede, use a Placa em modo Bridge (para usar a internet do computador que hospeda a VM)
 
 3. **Atenção à senha!**
-   - Durante a configuração, é necessário informar a senha de usuário
+   - Durante a configuração da VM, é necessário informar a senha de usuário
    - Guarde essa senha, pois ela será necessária para executar alguns comandos sudo
 
 5. **Atualize**  
