@@ -1,7 +1,10 @@
 # Como criar o bot do Telegram
 
 4. **Crie um bot no Telegram**  
-   - Procure o **@BotFather** na lupa do Telegram  
+   - Procure o **@BotFather** na lupa do Telegram
+   - 
+   <img width="302" height="68" alt="Image" src="https://github.com/user-attachments/assets/e345a2ea-ca59-43bf-b1d5-08f7a2847423" />
+   
    - Envie `/newbot` e siga os passos apontados pelo bot
    - Copie o token que será dado no final para usar no script
      
