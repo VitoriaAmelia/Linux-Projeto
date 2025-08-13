@@ -1,8 +1,7 @@
 <img width="304" height="48" alt="image" src="https://github.com/user-attachments/assets/8270bb7e-092e-4c0e-bd27-492fe06a2246" /># Como criar o bot do Telegram
 
 4. **Crie um bot no Telegram**  
-   - Procure o **@BotFather** na lupa do Telegram
-
+   - Procure o @BotFather na lupa do Telegram
 
    <img width="304" height="48" alt="Image" src="https://github.com/user-attachments/assets/ef64516c-fb2d-40a1-9c63-9e27ee565035" />
    
