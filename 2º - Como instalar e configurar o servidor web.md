@@ -34,6 +34,7 @@
    sudo mv /home/usuario/imagem.extensao /var/www/html/
    ```
    Isso moverá seu arquivo para o mesmo diretório onde estará a página HTML.
+   
    Será necessário digitar a senha do usário novamente   
 5. **Crie uma página HTML inicial**
    
