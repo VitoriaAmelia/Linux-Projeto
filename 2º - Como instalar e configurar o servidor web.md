@@ -12,7 +12,7 @@
    systemctl status nginx
    ```
    
-3. **Antes de criar sua página, considere os passos sobre como eviar imagens para a VM**
+3. **Antes de criar sua página, considere como enviar imagens para a VM**
    
    No seu computador local, nesse caso o Windows, digite o modelo no cmd:
    
@@ -27,8 +27,15 @@
    ip_servidor --> ip da sua máquina
 
    Se necessário, depois desse processo, digite a senha do usuário da VM
+
+   Na Máquina Virtual, digite:
+
+    ```bash
+   sudo mv /home/usuario/imagem.extensao /var/www/html/
+   ```
+   Isso moverá seu arquivo para o mesmo lugar da página html
    
-4. **Crie uma página HTML inicial**
+5. **Crie uma página HTML inicial**
    
    Abra o seguinte arquivo no nano:
    
@@ -44,13 +51,13 @@
    
    Salve com Ctrl+O, enter, Ctrl+X.
 
-5. **Veja o ip da sua máquina**
+6. **Veja o ip da sua máquina**
    
    ```bash
    ip -4 a
    ```
    
-6. **Cole no navegador**
+7. **Cole no navegador**
    
    ```bash
    http://IP_CONSULTADO
