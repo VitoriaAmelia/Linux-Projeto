@@ -3,10 +3,10 @@
 1. **Instale o Nginx**
    
    ```bash
-   sudo apt install nginx -y
+   apt install nginx -y
    ```
    
-3. **Verifique se o Nginx está ativo**
+3. **Verifique se o Nginx está ativo (procure por "active:running")**
    
    ```bash
    systemctl status nginx
@@ -14,7 +14,7 @@
    
 3. **Antes de criar sua página, considere como enviar imagens para a VM**
    
-   No computador local, nesse caso o Windows, digite o modelo no cmd:
+   No computador local, nesse caso o Windows, digite o modelo no cmd como administrador:
    
     ```bash
    scp "C:\caminho\sua_imagem.extensao" usuario@ip_servidor:/home/usuario/
@@ -26,16 +26,13 @@
         
    ip_servidor --> ip da sua máquina
 
-   Será necessário, depois desse processo, digitar a senha do usuário da VM
-
    Na Máquina Virtual, digite:
 
     ```bash
-   sudo mv /home/usuario/imagem.extensao /var/www/html/
+   mv /home/usuario/imagem.extensao /var/www/html/
    ```
    Isso moverá seu arquivo para o mesmo diretório onde estará a página HTML.
-   
-   Será necessário digitar a senha do usário novamente   
+    
 5. **Crie uma página HTML inicial**
    
    Abra o arquivo "index.html" no editor nano, precisa ser nesse caminho:
