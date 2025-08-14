@@ -14,7 +14,7 @@
 
    - Depois, verifique se recebeu a notificação no Telegram:
 
-     <img width="378" height="78" alt="Image" src="https://github.com/user-attachments/assets/74f2f695-1628-4847-92e5-b589a4872d54" />)
+     <img width="378" height="78" alt="Image" src="https://github.com/user-attachments/assets/74f2f695-1628-4847-92e5-b589a4872d54" />
 
 
    - Cheque o status:
