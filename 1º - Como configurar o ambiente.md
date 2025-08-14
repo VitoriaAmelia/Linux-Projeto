@@ -4,17 +4,28 @@
    - Link para download: [https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 2. **Baixe o Ubuntu**
-   - Acesse o link:[ https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
-   - Escolha o Ubuntu Server (Ubuntu 22.04 LTS) e faça download
+   - Acesse o link:[https://ubuntu.com/download/server](https://ubuntu.com/download/server)
+   - Faça o download da imagem ISO do Ubuntu Desktop 22.04 LTS
 
 2. **Crie uma VM**  
    - 1,8 GB RAM, 1 CPU e 25 GB no tamanho do disco são suficientes  
-   - Sobre a rede, use a Placa em modo Bridge (para usar a internet do computador que hospeda a VM)
+   - Em configurações da VM > Rede > Adaptador 1, use a Placa em modo Bridge (para usar a internet do computador que hospeda a VM)
+   - Não se esqueça de adicionar a imagem ISO,  em configuarações da VM > Armazenamento > Controladora IDE
 
-3. **Atenção à senha!**
-   - Durante a configuração da VM, é necessário informar a senha de usuário
-   - Guarde essa senha, pois ela será necessária para executar alguns comandos sudo
-
+3. **Primeiros passos**
+   - Faça login com seu usuário e senha definidos na instalação
+   - Digite:
+     
+   ```bash
+   sudo su root
+   ```
+   - Insira a senha do usuário
+   - Vá para o diretório raiz
+  
+   ```bash
+   cd /
+   ```
+   
 5. **Atualize**  
    Após a instalação, atualize a lista de pacotes disponíveis e instale todas as atualizações disponíveis:  
    ```bash
