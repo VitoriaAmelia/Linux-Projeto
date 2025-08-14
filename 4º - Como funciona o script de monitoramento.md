@@ -32,7 +32,7 @@
    # Ao final, a linha de código escreve o código http encontrado na URL e armazena na variável STATUS
    STATUS=$(curl -s -o /dev/null -w "%{http_code}" $URL)
 
-   # Ecreve o código http obtido, junto com a data atual e uma mensagem, e manda para o arquivo log
+   # Escreve o código http obtido, junto com a data atual e uma mensagem, e manda para o arquivo log
    echo "$(date) - STATUS HTTP: $STATUS - $([ $STATUS = 200 ] && echo 'OK' || echo 'FALHOU')" >> $ARQUIVO_LOG
 
    # se o status for diferente de 200, solicita para o telegram via POST para que ele possa mandar a mensagem indicada para o caminho fornecido
