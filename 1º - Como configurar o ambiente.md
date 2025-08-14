@@ -16,9 +16,9 @@
    - Faça login com usuário e senha definidos na instalação
    - Digite:
   
-      ```bash
-      sudo su root
-      ```
+   ```bash
+   sudo su root
+   ```
    
 5. **Atualize**  
    Após a instalação, atualize a lista de pacotes disponíveis e instale todas as atualizações disponíveis:  
