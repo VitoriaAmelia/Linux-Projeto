@@ -21,7 +21,7 @@
    - Veja o log:
      
    HTTP: 200 significa que a requisição ao servidor foi OK
-   
+
       ```bash
       cat /var/log/nome_do_seu_log.log
       ```
@@ -33,10 +33,10 @@
   
      
    Inactive = inativo e active = ativo
-   
-     ```bash
-     systemctl status nginx
-     ```
+
+      ```bash
+      systemctl status nginx
+      ```
 
 
    <img width="625" height="18" alt="Image" src="https://github.com/user-attachments/assets/43533510-d8cb-4e12-97dc-c7dd04288049" />
