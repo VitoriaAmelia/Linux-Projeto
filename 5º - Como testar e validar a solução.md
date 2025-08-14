@@ -35,3 +35,8 @@
 
      <img width="462" height="62" alt="Image" src="https://github.com/user-attachments/assets/75c32ac7-c32d-45cf-a2d6-16a06b11d318" />
 
+   - Se precisar, arrume o fuso horário do log:  
+     ```bash
+     timedatectl set-timezone America/Sao_Paulo
+     ```
+
