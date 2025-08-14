@@ -19,7 +19,9 @@
 
 
    - Veja o log:
+     
    HTTP: 200 significa que a requisição ao servidor foi OK
+   
      ```bash
      cat /var/log/nome_do_seu_log.log
      ```
