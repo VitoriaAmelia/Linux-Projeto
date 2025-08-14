@@ -23,9 +23,9 @@
    sudo su root
    ```
    - Digite a senha do usuário
-   - Volte para o diretório raiz
+   - Volte para o diretório raiz:
    ```bash
-   sudo su root
+   cd /
    ```  
    
 5. **Atualize**
