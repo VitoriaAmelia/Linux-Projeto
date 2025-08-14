@@ -4,12 +4,12 @@
 
    - Pare o Nginx:
      ```bash
-     sudo systemctl stop nginx
+     systemctl stop nginx
      ```
 
    - Ou "mate" o processo:
      ```bash
-     sudo pkill -f nginx
+     pkill -f nginx
      ```
 
    - Depois, verifique se recebeu a notificação no Telegram:
