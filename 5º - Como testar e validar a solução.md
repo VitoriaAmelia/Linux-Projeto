@@ -18,6 +18,7 @@
    <img width="582" height="90" alt="Image" src="https://github.com/user-attachments/assets/4fa32979-b686-4adf-a815-3743eeb4796d" />
 
 
+
    - Veja o log:
    HTTP: 200 significa que a requisição ao servidor foi OK
      ```bash
