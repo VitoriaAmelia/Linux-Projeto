@@ -13,11 +13,9 @@
    - Não se esqueça de adicionar a imagem ISO,  em configuarações da VM > Armazenamento > Controladora IDE
 
 3. **Primeiros passos**
-   - Faça login com usuário e senha definidos na instalação
-   - Digite:
-  
+   Após a instalação, atualize a lista de pacotes disponíveis e instale todas as atualizações disponíveis:  
    ```bash
-   sudo su root
+   sudo apt update && sudo apt upgrade -y
    ```
    
 5. **Atualize**  
