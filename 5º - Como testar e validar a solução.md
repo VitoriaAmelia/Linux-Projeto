@@ -30,7 +30,10 @@
 
 
    - Cheque o status:
+  
+     
    Inactive = inativo e active = ativo
+   
      ```bash
      systemctl status nginx
      ```
