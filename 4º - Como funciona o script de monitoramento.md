@@ -38,7 +38,7 @@
    # se o status for diferente de 200, solicita para o telegram via POST para que ele possa mandar a mensagem indicada para o caminho fornecido
    # Depois, o nginx é reiniciado se ele estiver inativo
    if [ "$STATUS" != "200" ]; then
-       curl -s --request POST "https://api.telegram.org/bot$TOKEN/sendMessage" -d chat_id=$ID -d text="Alerta, site indisponível! Status: $STATUS"
+       curl -s --request POST "https://api.telegram.org/bot$TOKEN/sendMessage" -d chat_id=$ID -d text="Alerta, site indisponível! Status HTTP: $STATUS"
        if ! systemctl is-active --quiet nginx; then
         systemctl restart nginx
        fi 
