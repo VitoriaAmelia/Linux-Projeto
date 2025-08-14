@@ -5,7 +5,7 @@
    Crie um script para fazer o monitoramento com o editor nano no caminho /usr/local/NOME_DO_SEU_SCRIPT.sh  
  
    ```bash
-   sudo nano /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
+   nano /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
    ```
    Conteúdo:  
    ```bash
@@ -48,12 +48,12 @@
    
 2. **Dê permissão para executar**  
    ```bash
-   sudo chmod +x /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
+   chmod +x /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
    ```
 
 3. **Agende a execução automática do script**  
    ```bash
-   sudo crontab -e
+   crontab -e
    ```
    Adicione a linha (os "*" indicam que executa a cada minuto) : 
    ```
