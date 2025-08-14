@@ -20,7 +20,7 @@
    sudo su root
    ```
    - Insira a senha do usuário
-   - Vá para o diretório raiz
+   - Vá para o diretório raiz:
   
    ```bash
    cd /
