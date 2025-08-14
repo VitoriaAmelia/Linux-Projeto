@@ -32,11 +32,11 @@
    # Ao final, a linha de código escreve o código http encontrado na URL e armazena na variável STATUS
    STATUS=$(curl -s -o /dev/null -w "%{http_code}" $URL)
 
-   # Ecreve o código http obtido, junto com a data atual, e manda para o arquivo log
+   # Ecreve o código http obtido, junto com a data atual e uma mensagem, e manda para o arquivo log
    echo "$(date) - STATUS HTTP: $STATUS - $([ $STATUS = 200 ] && echo 'OK' || echo 'FALHOU')" >> $ARQUIVO_LOG
 
    # se o status for diferente de 200, solicita para o telegram via POST para que ele possa mandar a mensagem indicada para o caminho fornecido
-   # Depois, o nginx é reiniciado
+   # Depois, o nginx é reiniciado se ele estiver inativo
    if [ "$STATUS" != "200" ]; then
        curl -s --request POST "https://api.telegram.org/bot$TOKEN/sendMessage" -d chat_id=$ID -d text="Alerta, site indisponível! Status: $STATUS"
        if ! systemctl is-active --quiet nginx; then
