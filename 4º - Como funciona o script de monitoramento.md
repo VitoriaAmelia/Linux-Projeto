@@ -55,7 +55,7 @@
    ```
    Adicione a linha (os "*" indicam que executa a cada minuto) : 
    ```
-   * * * * * /usr/local/bin/NOME_DO_SEU_SCRIPT.SH
+   * * * * * /usr/local/bin/NOME_DO_SEU_SCRIPT.sh
    ```
    
 4. **Verfique**
