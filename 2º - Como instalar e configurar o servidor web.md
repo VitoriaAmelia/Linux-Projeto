@@ -38,7 +38,7 @@
    Abra o arquivo "index.html" no editor nano, precisa ser nesse caminho:
    
    ```bash
-   sudo nano /var/www/html/index.html
+   nano /var/www/html/index.html
    ```
    
    Digite o conteúdo html:
