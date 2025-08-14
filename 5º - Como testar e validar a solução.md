@@ -32,3 +32,6 @@
      ```bash
      cat /var/log/nome_do_seu_log.log
      ```
+
+     <img width="462" height="62" alt="Image" src="https://github.com/user-attachments/assets/75c32ac7-c32d-45cf-a2d6-16a06b11d318" />
+
