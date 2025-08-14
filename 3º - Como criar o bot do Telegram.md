@@ -1,6 +1,6 @@
 # Como criar o bot do Telegram
 
-4. **Crie um bot no Telegram**  
+1. **Crie um bot no Telegram**  
    - Procure o @BotFather na lupa do Telegram
 
       <img width="404" height="58" alt="Image" src="https://github.com/user-attachments/assets/ef64516c-fb2d-40a1-9c63-9e27ee565035" />
@@ -10,7 +10,7 @@
      
      <img width="413" height="67" alt="Image" src="https://github.com/user-attachments/assets/4c24abc3-1488-4973-815c-72e9d29dc062" />
      
-6. **Ache o ID do seu chat**  
+2. **Ache o ID do seu chat**  
    - No navegador, acesse com seu token:
      
      ```
